@@ -1,11 +1,10 @@
-Habit Tracker |  SwiftUI 🚀
-platform GitHub license
+# Habit Tracker |  SwiftUI 🚀
 
 The aim of this app is so that users can track their habits and goals. This project is open source. The project is built using Swift and uses SwiftUI.
 
-Consider leaving a ⭐ if you like the repository.
+# Consider leaving a ⭐ if you like the repository.
 
-Getting Started 🙌
+# Getting Started 🙌
 Fork the project
 
 Open your forked project in GitHub and click on the green <>Code button.
@@ -31,5 +30,5 @@ Architecture
 Contributing 🤖
 To start contributing, check out contributing.md. Everyone is welcome to contribute to this project, if you’re new to programming you might want to check out issues labeled as UI-Improvements and good-first-issue. Before you assist with the development, please set up the project on your local machine, run it, and go through the application.
 
-Project Maintainers 😎
-Dhaval Desai
+# Project Maintainers 😎
+## Dhaval Desai
